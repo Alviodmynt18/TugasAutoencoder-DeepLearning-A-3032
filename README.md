@@ -75,7 +75,7 @@ Model dilatih untuk **meminimalkan perbedaan antara gambar berwarna hasil predik
 
 Berikut adalah visualisasi hasil prediksi model setelah proses pelatihan:
 
-![output](Output.png)
+![output](output.png)
 
 ### 📌 Penjelasan:
 - **Input**: Sketsa karakter Pokémon dalam grayscale yang telah dikonversi menjadi 3 channel RGB.
